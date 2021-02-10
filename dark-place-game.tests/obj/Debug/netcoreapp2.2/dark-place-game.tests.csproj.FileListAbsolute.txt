@@ -1,0 +1,16 @@
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\obj\Debug\netcoreapp2.2\dark-place-game.tests.csprojAssemblyReference.cache
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\obj\Debug\netcoreapp2.2\dark-place-game.tests.AssemblyInfoInputs.cache
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\obj\Debug\netcoreapp2.2\dark-place-game.tests.AssemblyInfo.cs
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\dark-place-game.tests.deps.json
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\dark-place-game.tests.runtimeconfig.json
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\dark-place-game.tests.runtimeconfig.dev.json
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\dark-place-game.tests.dll
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\dark-place-game.tests.pdb
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\dark-place-game.dll
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\bin\Debug\netcoreapp2.2\dark-place-game.pdb
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\obj\Debug\netcoreapp2.2\dark-place-game.tests.csproj.CopyComplete
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\obj\Debug\netcoreapp2.2\dark-place-game.tests.dll
+F:\IPI_TP\test\dark-place-engine\dark-place-game.tests\obj\Debug\netcoreapp2.2\dark-place-game.tests.pdb

@@ -1,0 +1,10 @@
+F:\IPI_TP\test\dark-place-engine\dark-place-game\bin\Debug\netcoreapp2.2\dark-place-game.deps.json
+F:\IPI_TP\test\dark-place-engine\dark-place-game\bin\Debug\netcoreapp2.2\dark-place-game.runtimeconfig.json
+F:\IPI_TP\test\dark-place-engine\dark-place-game\bin\Debug\netcoreapp2.2\dark-place-game.runtimeconfig.dev.json
+F:\IPI_TP\test\dark-place-engine\dark-place-game\bin\Debug\netcoreapp2.2\dark-place-game.dll
+F:\IPI_TP\test\dark-place-engine\dark-place-game\bin\Debug\netcoreapp2.2\dark-place-game.pdb
+F:\IPI_TP\test\dark-place-engine\dark-place-game\obj\Debug\netcoreapp2.2\dark-place-game.csprojAssemblyReference.cache
+F:\IPI_TP\test\dark-place-engine\dark-place-game\obj\Debug\netcoreapp2.2\dark-place-game.AssemblyInfoInputs.cache
+F:\IPI_TP\test\dark-place-engine\dark-place-game\obj\Debug\netcoreapp2.2\dark-place-game.AssemblyInfo.cs
+F:\IPI_TP\test\dark-place-engine\dark-place-game\obj\Debug\netcoreapp2.2\dark-place-game.dll
+F:\IPI_TP\test\dark-place-engine\dark-place-game\obj\Debug\netcoreapp2.2\dark-place-game.pdb
