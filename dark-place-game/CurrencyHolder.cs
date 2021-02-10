@@ -7,18 +7,18 @@ namespace dark_place_game
     /// Une Exeption Custom
     public class CapacityReachedException : Exception {}
     public class CantWithDrawMoreThanCurrentAmountExeption : Exception {
-        public CantWithDrawMoreThanCurrentAmountExeption(string? message) { }
+        public CantWithDrawMoreThanCurrentAmountExeption(string message) { }
     }
     public class CurrencyHolderArgumentsException : ArgumentException {
-        public CurrencyHolderArgumentsException(string? message) { }
+        public CurrencyHolderArgumentsException(string message) { }
     }
     public class StoreCurrencyArgumentsException : ArgumentException {
-        public StoreCurrencyArgumentsException(string? message) { }
+        public StoreCurrencyArgumentsException(string message) { }
     }
 
     public class WithdrawCurrencyArgumentsException : ArgumentException
     {
-        public WithdrawCurrencyArgumentsException(string? message) { }
+        public WithdrawCurrencyArgumentsException(string message) { }
     }
     public class CantCreateCurrencyHolderWithNegativeAmount
     {
